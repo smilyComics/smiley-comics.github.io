@@ -1,0 +1,15 @@
+#comics-btn {
+	margin-left: 35%;
+}
+#comics-btn a:active {
+	position:relative;
+	top:2px;
+}
+
+body {
+	background-color:#0d1b0a;
+}
+p {
+	text-align: center;
+}
+
