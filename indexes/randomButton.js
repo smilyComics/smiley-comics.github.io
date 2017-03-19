@@ -1,4 +1,4 @@
-var maxIndex = 6;
+var maxIndex = 7;
 var currentIndex = maxIndex;
 
 function first() {
